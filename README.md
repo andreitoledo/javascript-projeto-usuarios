@@ -1,6 +1,8 @@
 # javascript-projeto-usuarios
 
-Projeto Gerenciamento de Usuário
+Projeto Gerenciamento de Usuário 
+
+status: Em desenvolvimento
 
 #### @author:
 Andrei Toledo
